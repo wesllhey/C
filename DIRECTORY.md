@@ -1,4 +1,6 @@
 
+## [872](https://github.com/TheAlgorithms/C/blob/master//872.c)
+
 ## Client Server
   * [Client](https://github.com/TheAlgorithms/C/blob/master/client_server/client.c)
   * [Server](https://github.com/TheAlgorithms/C/blob/master/client_server/server.c)
@@ -23,6 +25,7 @@
   * [Decimal To Octal](https://github.com/TheAlgorithms/C/blob/master/conversions/decimal_to_octal.c)
   * [Decimal To Octal Recursion](https://github.com/TheAlgorithms/C/blob/master/conversions/decimal_to_octal_recursion.c)
   * [Hexadecimal To Octal](https://github.com/TheAlgorithms/C/blob/master/conversions/hexadecimal_to_octal.c)
+  * [Octal To Decimal](https://github.com/TheAlgorithms/C/blob/master/conversions/octal_to_decimal.c)
   * [To Decimal](https://github.com/TheAlgorithms/C/blob/master/conversions/to_decimal.c)
 
 ## Data Structures
@@ -50,6 +53,9 @@
     * [Kruskal](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/kruskal.c)
     * [Strongly Connected Components](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/strongly_connected_components.c)
     * [Topologicalsort](https://github.com/TheAlgorithms/C/blob/master/data_structures/graphs/topologicalSort.c)
+  * Hash Set
+    * [Hash Set](https://github.com/TheAlgorithms/C/blob/master/data_structures/hash_set/hash_set.c)
+    * [Main](https://github.com/TheAlgorithms/C/blob/master/data_structures/hash_set/main.c)
   * Heap
     * [Max Heap](https://github.com/TheAlgorithms/C/blob/master/data_structures/heap/max_heap.c)
     * [Min Heap](https://github.com/TheAlgorithms/C/blob/master/data_structures/heap/min_heap.c)
